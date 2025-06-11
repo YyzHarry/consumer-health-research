@@ -1,5 +1,4 @@
-# Consumer-Health-Research
+# Personal Health Large Language Model (PH-LLM)
 
-Consumer Health Research Team's mission is to help people understand and improve their health.
-
-*This is not an officially supported Google product.*
+This repository contains code and data for the manuscript
+"[A Personal Health Large Language Model for Sleep and Fitness Coaching](https://arxiv.org/abs/2406.06474)".
