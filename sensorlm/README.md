@@ -3,7 +3,7 @@
 This repository contains [datasets](#datasets) and [reference code](#reference-code-structure) from the SensorLM manuscript published in NeurIPS 2025: "[SensorLM: Learning the Language of Wearable Sensors](https://arxiv.org/abs/2506.09108)".
 
 
-![PH-LLM: A Personal Health Large Language Model](assets/sensorlm.png)
+![SensorLM](assets/sensorlm.png)
 
 > **Sensor-language foundation models (SensorLM) for wearable data.** Aligning and interpreting sensor data with natural language remains challenging. (A) We present a comprehensive study using over 59.7 million hours of multimodal wearable data from over 103,000 individuals. (B) We design a hierarchical pipeline for automatic paired text generation that covers statistical, structural, and semantic sensor information. (C) The SensorLM pretraining framework and its use cases for diverse downstream tasks. (D) Radar plot comparing the performance of SensorLM and baselines across various tasks and settings.
 
